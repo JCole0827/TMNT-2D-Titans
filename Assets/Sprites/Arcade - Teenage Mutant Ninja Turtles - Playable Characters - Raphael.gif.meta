@@ -95,12 +95,2872 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef893d0d68ec37442bfd17bf64e1ba12
+      internalID: 662731116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53366bf32902c4d975bc3f372cfdbd
+      internalID: 930422825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551857d16f8595f4480b6138e04bf949
+      internalID: -422184067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc84df4fcba3304985aeae0abd7ada4
+      internalID: -973611658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d88f18b5720f84fb4178e9cf9daffb
+      internalID: 1234405780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2d9d432f60c8479d7ffa1587ba156
+      internalID: -1500676287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933379c908273044684f733016d198bb
+      internalID: -351234150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90cdeadae606d64988a29a4e77b33bc
+      internalID: 752061350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e344b5fb8415641aec9af75bd84bcc
+      internalID: -1247669054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_9
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 924
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8669a55b59efb4bbc6120f0f453003
+      internalID: -163877879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f2e8f5721d9446acb7884165f8a73
+      internalID: -728091897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278ee8b1de0c4a4a814fd414b62f597
+      internalID: -424054387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818d8577ec38994b8f26087a5bbcde7
+      internalID: -1983649750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13102faa59c6d9e468ab069d1085d9a8
+      internalID: 2001365623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc94cf5f5353bf47893b4bace822c3c
+      internalID: 1450626491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353fea74eed8b50489b0cd140882aed6
+      internalID: 1342650105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78dd3ea197cb6b4f92e2da275272f16
+      internalID: -1891094993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae0f7855c4b6042919ac825cef0802
+      internalID: 880544883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f221ac2d1e4ebee418085b5a6fc639a2
+      internalID: 643772841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_19
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 847
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6650b393e3d7dc489b846ef3f01dd70
+      internalID: 811691490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c33dc4742eb0f49907e3abb7c03e6b
+      internalID: 37598025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1349e0193170418478cd259448cd1164
+      internalID: -824033959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a8c34fe1f27c4d9ef78d2c415090a
+      internalID: -243300799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fb23f804683e45a2f839005bacb5a
+      internalID: -1825794349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93aa228ead1f3743acec5a1f2d6d1b9
+      internalID: -1953831161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8c5f2ed0b2f9541a8410e44b1f1922
+      internalID: 1273530773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7414182795eeac4a933a2eb3f17f08c
+      internalID: -1020268750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b23fa07c9041ad49ace828d509f8847
+      internalID: -116223893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f512cefcdd844841a9f94b920dd37eb
+      internalID: -458543951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_29
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 770
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465528a118d784c4fb441c8c4775a34a
+      internalID: -228369758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6d1ad9e938044fb415a3592ed7582
+      internalID: -1157110894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eb58a65c818d44b4ce8a75d8c0c50
+      internalID: -1341299017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f817ad3c322284abdd0dcd459c3f87
+      internalID: 1005631498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5a5fff85051a4583d7ef01398387a
+      internalID: 1533232218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded8e369a8efc94d918eb9a9cac137a
+      internalID: -1751159501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c09883da259b4640a6176f9f8e6ef8a
+      internalID: 1848052026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7902444ad6932f44954fca2f10a50f2
+      internalID: -46331346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1445f290eef0c8743af302ae9ef0a03a
+      internalID: 2015697021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_38
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9a208da23ad7478c7d806749e569b
+      internalID: -945065004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_39
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 693
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86024f9baa56129499e177aa86f1b118
+      internalID: -2088270993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6e8e957ac5174d9ee995c703523eb
+      internalID: 2126453790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ee040cc1cd8b48993960b8efe1bd2
+      internalID: 2101118968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_42
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754ae0571b36104582d862053099ca0
+      internalID: 2047392616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d072b0d2286fb4a4d811f8fba5052ded
+      internalID: 764575328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527ee5dffc3248046a14a77ff894e1fc
+      internalID: -1148265665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4c5c1513c3f54d8e813d86f5da588
+      internalID: 1829442588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75db72f852f9e544b57b034ad16ccd9
+      internalID: 1418095876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695329b253fcdb41832f30460b2b3a8
+      internalID: 8029065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_48
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb543042ac947e45892c80aaa23f462
+      internalID: -206654794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_49
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 616
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e68a6713a06a498a58b47cecea56c
+      internalID: -1332808387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a58dd5df1454429232679d6c53643
+      internalID: -274017148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a683ca89fe9e54da9ed056cd56d0cc
+      internalID: 217375067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ad24c8da3fff408487ec5c7948606
+      internalID: 666280106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e00c223736c5744b5859555d0bb57b
+      internalID: 1928354465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf8312e1990cb4a8b86b89acc9fb0d
+      internalID: 867168940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7959c74fdc47d8f4a982cb830b918b2e
+      internalID: 935627284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_56
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbad013aaf17a4fad70d8f39adb2da
+      internalID: -742599263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_57
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b642ce26326b44188639efc7011d2a
+      internalID: -696915566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_58
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6307f4c2cc878d41bc00a30eee25021
+      internalID: 265751432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_59
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 539
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022461ee8e3af745ad6aa041e57a345
+      internalID: -304328136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaed9870eae63f4db81a88fda80af96
+      internalID: 459205952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94926f75235888146b50959141d0953a
+      internalID: -776454115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e089e022c877aec47a8b9dfecc7d43d9
+      internalID: -842789603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda09d39b08c834693809d36ad17d14
+      internalID: 455881570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae380fe723c00af4e8a5d2a8321fed63
+      internalID: -925308251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc845cd65ded848817ecb801e0e20a
+      internalID: -297075362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_66
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331c719d38c4f9449a566ff6c18def4
+      internalID: -1634285231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_67
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c874b7974f1d7284daf1dfc76a73046f
+      internalID: 1197158407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c309b01ac4ac2408d4ca583308800c
+      internalID: -967984988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_69
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 462
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7bf6b2d6540a43ac405daf702438e
+      internalID: 1608585564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27c4763aeffcc47b434e125ed8a1f2
+      internalID: 372082030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192fdb02387f94946b03f2d2c8eedccd
+      internalID: 1733308732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_72
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6ab077ec03514e99d7183167911ef
+      internalID: 2110665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_73
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88a53672611c874c803ab80a8efd829
+      internalID: -1395244377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a68629b58226743b622e65617b66cb
+      internalID: -1727206897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_75
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c834c816437c2a4f865ba4f868b505e
+      internalID: -539145752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_76
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101e84ab1358e34dae46a69bafb160f
+      internalID: -1245776148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f839d4b6c43cd4a98df713dbba0bbf
+      internalID: 337970473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_78
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5c4130c1331741958ea096a8cb80f
+      internalID: -298428083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_79
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 385
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e166a24f2a67439b5166a1653e56d
+      internalID: 2065674334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27dcb3afdb1a2a4f947a00bbc2eda7d
+      internalID: 1005715753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82f45ab7a96ca46abd4242457de2b7
+      internalID: 71646191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8422fef36d6d420438b23695245a6a85
+      internalID: 1393293667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_83
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dbfcce5abaa71488b3df2d6700d8ff
+      internalID: 1085776905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c0682683ffe0b40b1f8e48760df7e8
+      internalID: 223565417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d1b1b32f9c9b4590b14aa104ca869
+      internalID: -1575796604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_86
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8d9e67f668344a80bb7202ac7ea2b
+      internalID: -397317532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_87
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53580ad3d2b4358408c0d61ab029fa52
+      internalID: -1348156681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a247b5cd847ca434382bad8b9e25cb01
+      internalID: -322024956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_89
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 308
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0571f2db744ab640a27e005e8b32b2d
+      internalID: 282216332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194a12fbf9e1b734b8df9b591bbaf406
+      internalID: 1032330924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758fabff3ca119c4fa4858e1437a7142
+      internalID: 564668367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5851ddd6d82342980718748cb54b2
+      internalID: -1042710619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e83ad14ad92b3846a7fcfceb3fe4b33
+      internalID: 1031104255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_94
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c46e53ff85aa46bd7f402b95c93a7
+      internalID: -1891102026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_95
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db74de81ebaeb948ba9d5968510bb85
+      internalID: 1877045981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_96
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e6b99a4f04c2d47a08ecccf8df7546
+      internalID: 325831099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_97
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf1223373c2af24db55dc468df3aae8
+      internalID: -1837664535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_98
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0286cfe1f38783344941fd23c808ba67
+      internalID: 338539863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_99
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 231
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dcae91b9cad7748b6f020d9b3b4240
+      internalID: 1253644667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c35cb21046034499ab6e04c0d6d92
+      internalID: -1744051532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f300119078cdcda4c8c57bb46c01a473
+      internalID: -321290290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_102
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39639a7df03ffd648b71c3610010005e
+      internalID: -994096224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_103
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b488491d81195459f140bc34d9b18b
+      internalID: 683872209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_104
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423275bd12feb04ebe1f61c179f5c34
+      internalID: -1094351566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_105
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613e2ab32fe2b64193edebe98332fe8
+      internalID: -551337464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e5ae1109e912243a83cd6920c51603
+      internalID: 580671617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_107
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54a439e087a944ea0b3b299d510650
+      internalID: 1528611531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_108
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98838e99b2925634b9f40b6bb294af9b
+      internalID: -1306640366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_109
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 154
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bca60e6c310c9468836b56f09cf68d
+      internalID: -1297833735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52024587b7f8cf9439194163808b885a
+      internalID: -1347260859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26eeb82d01c03e44910d69e4e0d432d
+      internalID: 199424305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477c2d7ef6854664fba648c3d20cfc0c
+      internalID: -854057635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_113
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d75c2206c6a34c802e7dacfbaded3
+      internalID: -1630339350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1d00219e8e7243b4d3391575ac16f
+      internalID: -743432600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_115
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf9c20d945ed44a93914044dd9c30e
+      internalID: -1764711563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_116
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc0cd20784350048bfaab098246a487
+      internalID: 1240501320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_117
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d744541109a21944a9beac30603ed29
+      internalID: 873477704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_118
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dbf515e76db5b4ab6d1163d672d1f5
+      internalID: -985473827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_119
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 77
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8e0d07de5740d4e9cd5beb024a25b6
+      internalID: -777539244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fd849ee83079409ae22c621a1b5bf
+      internalID: -1125584385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_121
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2186496b4e749e64ea8a4752b87db8e2
+      internalID: -216783437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_122
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d86e9707319ea246895eb2b947db66a
+      internalID: 438603390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a126c2dde337704183d071d015e7a13
+      internalID: -1486173565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_124
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a270757668684eb6fa1db2542397b
+      internalID: -405659461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b579fd30febe04cbab29c9f27ead2b
+      internalID: -820466934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_126
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c062856ab8c734488dfed6f8b0aa6b
+      internalID: 760987222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_127
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4aa8353b41aca4cae2247e93836a18
+      internalID: 1921518189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_128
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba4ba1c092dc14f95e76078062545b
+      internalID: -361368598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_129
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1891763f1dc9b409698fc5b5011bd0
+      internalID: 598700823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bffff1f177ad77248ad7ec1ce67aace8
     internalID: 0
     vertices: []
     indices: 
@@ -108,8 +2968,140 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":13.0},"gridSpriteSize":{"x":85.0,"y":77.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_0: 662731116
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_1: 930422825
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_10: -728091897
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_100: -1744051532
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_101: -321290290
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_102: -994096224
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_103: 683872209
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_104: -1094351566
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_105: -551337464
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_106: 580671617
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_107: 1528611531
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_108: -1306640366
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_109: -1297833735
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_11: -424054387
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_110: -1347260859
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_111: 199424305
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_112: -854057635
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_113: -1630339350
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_114: -743432600
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_115: -1764711563
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_116: 1240501320
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_117: 873477704
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_118: -985473827
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_119: -777539244
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_12: -1983649750
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_120: -1125584385
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_121: -216783437
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_122: 438603390
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_123: -1486173565
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_124: -405659461
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_125: -820466934
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_126: 760987222
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_127: 1921518189
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_128: -361368598
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_129: 598700823
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_13: 2001365623
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_14: 1450626491
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_15: 1342650105
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_16: -1891094993
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_17: 880544883
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_18: 643772841
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_19: 811691490
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_2: -422184067
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_20: 37598025
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_21: -824033959
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_22: -243300799
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_23: -1825794349
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_24: -1953831161
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_25: 1273530773
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_26: -1020268750
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_27: -116223893
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_28: -458543951
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_29: -228369758
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_3: -973611658
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_30: -1157110894
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_31: -1341299017
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_32: 1005631498
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_33: 1533232218
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_34: -1751159501
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_35: 1848052026
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_36: -46331346
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_37: 2015697021
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_38: -945065004
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_39: -2088270993
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_4: 1234405780
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_40: 2126453790
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_41: 2101118968
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_42: 2047392616
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_43: 764575328
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_44: -1148265665
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_45: 1829442588
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_46: 1418095876
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_47: 8029065
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_48: -206654794
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_49: -1332808387
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_5: -1500676287
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_50: -274017148
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_51: 217375067
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_52: 666280106
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_53: 1928354465
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_54: 867168940
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_55: 935627284
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_56: -742599263
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_57: -696915566
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_58: 265751432
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_59: -304328136
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_6: -351234150
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_60: 459205952
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_61: -776454115
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_62: -842789603
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_63: 455881570
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_64: -925308251
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_65: -297075362
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_66: -1634285231
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_67: 1197158407
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_68: -967984988
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_69: 1608585564
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_7: 752061350
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_70: 372082030
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_71: 1733308732
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_72: 2110665647
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_73: -1395244377
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_74: -1727206897
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_75: -539145752
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_76: -1245776148
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_77: 337970473
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_78: -298428083
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_79: 2065674334
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_8: -1247669054
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_80: 1005715753
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_81: 71646191
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_82: 1393293667
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_83: 1085776905
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_84: 223565417
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_85: -1575796604
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_86: -397317532
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_87: -1348156681
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_88: -322024956
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_89: 282216332
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_9: -163877879
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_90: 1032330924
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_91: 564668367
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_92: -1042710619
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_93: 1031104255
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_94: -1891102026
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_95: 1877045981
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_96: 325831099
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_97: -1837664535
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_98: 338539863
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Raphael_99: 1253644667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -95,12 +95,2652 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a5c79ee65935a4f8aace5d9bd70a4d
+      internalID: 1110924829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d911a49d96cbb704a8dca6feebe9d6ee
+      internalID: 1004703276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1960f7f5cae44b88a77995ac6df5e
+      internalID: 183787185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596109f2d8988e43bbd0d618868e714
+      internalID: 782100291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2621c20b5b80314b92c6e62ef321a81
+      internalID: -1069700723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12836d92dfb264e9ab76062c4d6de9
+      internalID: -2144954987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed3d7809ccc5e47b2bfbdf10eda122
+      internalID: -422101305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289b9cb9725bd34f8044a3771363203
+      internalID: -1524718781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa610732943c942bc4eaf6c3a75998
+      internalID: 1797338122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1045
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96647a5653ec6940b6883d6a49deeda
+      internalID: 1463669943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e6cb3850e26e4492b5e457b2bb7ec
+      internalID: -323511351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2556fc82279ef4880914ccfe7113b7
+      internalID: 1879237025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed7bce060df154fb88c09a11d092dc
+      internalID: -49096261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2c2f9abcb25cf4dbc45a4201cf5041
+      internalID: -1448859616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938241db6bfa0d34685289db239ed4f6
+      internalID: 186440783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94e52f923a09448bce8caee8c682d2
+      internalID: -961940938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45884143666dce446a9f78f21f095773
+      internalID: -959709027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b03bf0b06bd620469c19f4991a63dd1
+      internalID: -2117453469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbea8efde82c0f4e8e1639d6dcf7fa0
+      internalID: -2005146934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_19
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 950
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc508853f15209439cd97100c9713c8
+      internalID: -333215287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e21ff8bcf45b49bee2319e09e9fd5
+      internalID: -1051427853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc0a2f58400164285f5e103acfb4fc
+      internalID: -986077921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390781a9835669c47b25852eb4dc4e20
+      internalID: -1769312913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379fc30c586c6ca45bec230a74df9712
+      internalID: -870493868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_24
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1fafd66058324ea7d856dc468633c
+      internalID: 398181485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1c27f40f625ac4f8e7461dd39f5677
+      internalID: -1046980885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084a17b4d9dc72409f2828914c419f0
+      internalID: 1800746064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_27
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd452387a5e1d149a5ed8a42ee3205c
+      internalID: -1661320202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b751cfef3885ea498f5e8f88cace9be
+      internalID: 90198597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_29
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 855
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c6278d0b370eb4dbf3be37835d2fc3
+      internalID: 1835716397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdb14fd557dc7f409e58679cf9485cb
+      internalID: 1536704915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52289c9111a9844387b7bf9059a51b4
+      internalID: -1188186472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed765d8598b4d64d9dc68d46e1c31dd
+      internalID: 46359975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4acf5d4bb3cfb45a18244378b14873
+      internalID: 1912711843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7222d1ce1af624fb40ea53ccb4e490
+      internalID: 12726687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_35
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee12bcaf2dfd94ebf87823bad6b587
+      internalID: -768704844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_36
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3606d08bffad34eb3b12c41c159c74
+      internalID: 459019815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_37
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5d05b3c84aab41883aacba28092b6
+      internalID: -850368970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60f2019a2bd3bb4a83a3a1c9caaa0f5
+      internalID: 899365747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_39
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 760
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c06ea682823fa4f85bded9f780f2ff
+      internalID: 1236740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715fc61c42cf38940bd505160488164f
+      internalID: 2003681815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1aaa0a212add241af447c8df796dc3
+      internalID: -1452231663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60f9b657d6ca6409f82e63e4fb5c57
+      internalID: -1216349519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0746c09f95e84fbbd3822dbd3950e
+      internalID: 1423139130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ec58d9fc6da4c4986538fc05b74958
+      internalID: -688499676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_45
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dea4ff9ce0c29488208eea61e044d5
+      internalID: 223951852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9739eae3e3cc14eab7b4fe19b7719b
+      internalID: -683374887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_47
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76c16b067fd34418a5eba30b0c65c0
+      internalID: -1598643946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_48
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd85053fd1d0544faede0a0e5c77a69
+      internalID: 281244538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_49
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 665
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69217f75c65e5744b5b9be9223d709f
+      internalID: -733013599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89a97220b486f488f22cf4340583ca
+      internalID: 520698985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b416f39ae7626d6439cc09e92ca91665
+      internalID: -1085450668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808af45420f79654f82d3675c5f1df94
+      internalID: -1787714603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad08e34328c53048851a30697127e8b
+      internalID: -1441557561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_54
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78173424004e5c54ab1a60234fe3d0d7
+      internalID: 1195002645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e409d500b257214caee046c6a48bd04
+      internalID: 550565531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_56
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37efa6101620474cb37e00a62e22e7f
+      internalID: -1780009581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_57
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830da03844808b41b0b83755e8cdad4
+      internalID: -1168743443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_58
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1736311afb8df1e4fa0a0a4093936f8e
+      internalID: -1764328440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_59
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 570
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d1c70ee2f0af43a2c592f5bbca00b
+      internalID: -120362069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14197b24fd0f39147897c54918663a7e
+      internalID: -1274941304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b58f1cfba90fe48a4b679441685fe1
+      internalID: 1006130382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e224301bc13f4e98279edc284e2c2
+      internalID: -2042268906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb80871c1bb6d344ae884cc2371e3fd
+      internalID: -1783430578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_64
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b41574025e68d42a87c9a5f67f53a5
+      internalID: -1645001859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_65
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22599aede63e9cf40ad63c6e46aa1a00
+      internalID: -517631888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_66
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6611ac63d5c9d14ebae8d75ac9435f8
+      internalID: -940193799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_67
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e520eb8df810478079557a7309412
+      internalID: 947861016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_68
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b448a18f30f456440a4343c21b0beb92
+      internalID: 654984445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_69
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 475
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28faf25ffec9dab499f4a690eec6f02e
+      internalID: -695589594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8103d80e310e6494e87b50bf97e196d1
+      internalID: 904165716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a11d855a2f114995a52c8c3cb6a50
+      internalID: 1204733894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c6a550f196dd143ba5e10d7564f42c
+      internalID: 1458722343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_73
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece26a753f67b0b479ac7bb38924e25c
+      internalID: 1418271814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c688d1a5132e7b04eab5e44aef1ef224
+      internalID: -1737674139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_75
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de1b94bcfc710148a80f785aa64ce80
+      internalID: 566556998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887e3f1ccb0ff2d4a9dcc98f1a87865a
+      internalID: 2040532711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_77
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf66a49435c22d458148601a942a430
+      internalID: 134361361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_78
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0277b2a4fdf45ef46b70e92027cc763f
+      internalID: 1845271411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_79
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 380
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81adb5e1c69e61c4f9081eca33f267fe
+      internalID: -942877524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd725ebe6e6a474596c786f33706e56
+      internalID: 1382838227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065335e2940c7d340a8b94d8b66d491e
+      internalID: 1228266970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492f2fe66e4f4143977a135bb5db927
+      internalID: 892945707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c882b2fae397347a37fd4b39532661
+      internalID: -1793535079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffafe3046c69db4d8c5b36f9ba1e18b
+      internalID: 728941094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_85
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a4c306e6fa0a419e27dd9722084d7
+      internalID: -508402474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_86
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4541b02f552164183d814134755289
+      internalID: -538655691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_87
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219f78cfc6080c44b86e73a9aaebe8f
+      internalID: 500474698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_88
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade0903d9943834f834a4fe76ea585b
+      internalID: -510397529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_89
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 285
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41d69f4234673418de03f9be97b5d8
+      internalID: 358279861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae537f936f70a4419d3e0b31d2363fa
+      internalID: -306757364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87592ef765f134db6ab4c299510523
+      internalID: -1487278692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_92
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00e610fa6e75c1498bda64476d2ba71
+      internalID: -1123425525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_93
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214002d4355614f449af14dec11a2daa
+      internalID: 1526693921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_94
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e7ecc80c0cd3340819f7398d24fe0a
+      internalID: 1292884066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_95
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d034d319677b42babe0208b761e37
+      internalID: -211861350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2236ac947b44ca744932f4466fdf37da
+      internalID: -1753774865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_97
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223ebfdddaaf1ae4083e4ff5f578ab77
+      internalID: 981450480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_98
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e47af5829ca5408a3d46a1976f6a9
+      internalID: -642313370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_99
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 190
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca6f8b8fb3c98247b5eae408bc2aaf4
+      internalID: 204928571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a7c842d3a600c4da1525c001e51bbf
+      internalID: 66285303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2090d19c90cc4d4438f80667315f738f
+      internalID: -2005170825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48788629a0bc6ba4fa24e498e0efb47f
+      internalID: -478276613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_103
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d822f1ce263c244869fb70e7b58d30
+      internalID: 1289812995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c904ed72f0922244f8f15a722c877174
+      internalID: -938060502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_105
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651d553cfdac7d419ff05b924882a16
+      internalID: -1590284342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_106
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53847cb8a3d466b48ae0bf36d907ec55
+      internalID: 1158470758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_107
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e59fb27e17a6c4cbf48c59ebeea666
+      internalID: -1086137205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_108
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fee3f2e3258784eb70d62622ad79dd
+      internalID: 613813575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_109
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 95
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add7c5708ebb3048b663fc5b19616bb
+      internalID: -19509853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ebd818e7602b64b8ef869fab81b159
+      internalID: 1763169357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_111
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61366a6733c284db72f673774db4ad
+      internalID: -1867516835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_112
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d12401ae63d244b70874400ebd0fe
+      internalID: -634731335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_113
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e365e9bc3691d4cb81bd9816b40bbb
+      internalID: 765437596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_114
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0c3e875659ff54b8fd6a1ba9b82e3c
+      internalID: 1069858942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587cedd6d86c1c3479cd7ada2ea7ca7f
+      internalID: -1218028755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_116
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70643ca2a2761a4a85879c68c08417e
+      internalID: -190518941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_117
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764ba5feb5e01f4a8138ecdb3c09af1
+      internalID: 873876458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_118
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb1cef413c3524cb95e781f9977f8a
+      internalID: -246493086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_119
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c7317180cccf419f4106a2750066e
+      internalID: -2122961446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3f7edf09d584b0e44926ba204adfce96
     internalID: 0
     vertices: []
     indices: 
@@ -108,8 +2748,130 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
-    nameFileIdTable: {}
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":12.0},"gridSpriteSize":{"x":82.0,"y":95.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_0: 1110924829
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_1: 1004703276
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_10: -323511351
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_100: 66285303
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_101: -2005170825
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_102: -478276613
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_103: 1289812995
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_104: -938060502
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_105: -1590284342
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_106: 1158470758
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_107: -1086137205
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_108: 613813575
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_109: -19509853
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_11: 1879237025
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_110: 1763169357
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_111: -1867516835
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_112: -634731335
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_113: 765437596
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_114: 1069858942
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_115: -1218028755
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_116: -190518941
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_117: 873876458
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_118: -246493086
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_119: -2122961446
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_12: -49096261
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_13: -1448859616
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_14: 186440783
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_15: -961940938
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_16: -959709027
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_17: -2117453469
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_18: -2005146934
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_19: -333215287
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_2: 183787185
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_20: -1051427853
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_21: -986077921
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_22: -1769312913
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_23: -870493868
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_24: 398181485
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_25: -1046980885
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_26: 1800746064
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_27: -1661320202
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_28: 90198597
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_29: 1835716397
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_3: 782100291
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_30: 1536704915
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_31: -1188186472
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_32: 46359975
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_33: 1912711843
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_34: 12726687
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_35: -768704844
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_36: 459019815
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_37: -850368970
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_38: 899365747
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_39: 1236740592
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_4: -1069700723
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_40: 2003681815
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_41: -1452231663
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_42: -1216349519
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_43: 1423139130
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_44: -688499676
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_45: 223951852
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_46: -683374887
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_47: -1598643946
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_48: 281244538
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_49: -733013599
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_5: -2144954987
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_50: 520698985
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_51: -1085450668
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_52: -1787714603
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_53: -1441557561
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_54: 1195002645
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_55: 550565531
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_56: -1780009581
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_57: -1168743443
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_58: -1764328440
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_59: -120362069
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_6: -422101305
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_60: -1274941304
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_61: 1006130382
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_62: -2042268906
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_63: -1783430578
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_64: -1645001859
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_65: -517631888
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_66: -940193799
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_67: 947861016
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_68: 654984445
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_69: -695589594
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_7: -1524718781
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_70: 904165716
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_71: 1204733894
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_72: 1458722343
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_73: 1418271814
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_74: -1737674139
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_75: 566556998
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_76: 2040532711
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_77: 134361361
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_78: 1845271411
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_79: -942877524
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_8: 1797338122
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_80: 1382838227
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_81: 1228266970
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_82: 892945707
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_83: -1793535079
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_84: 728941094
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_85: -508402474
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_86: -538655691
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_87: 500474698
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_88: -510397529
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_89: 358279861
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_9: 1463669943
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_90: -306757364
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_91: -1487278692
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_92: -1123425525
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_93: 1526693921
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_94: 1292884066
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_95: -211861350
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_96: -1753774865
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_97: 981450480
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_98: -642313370
+      Arcade - Teenage Mutant Ninja Turtles - Playable Characters - Michelangelo_99: 204928571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
