@@ -1479,8 +1479,7 @@ GameObject:
   - component: {fileID: 928872110}
   - component: {fileID: 928872109}
   m_Layer: 0
-  m_Name: Sega Genesis - Teenage Mutant Ninja Turtles_ The Hyperstone Heist - Playable
-    Characters - Michelangelo_0
+  m_Name: Michelangelo Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1685,8 +1684,7 @@ GameObject:
   - component: {fileID: 1233001887}
   - component: {fileID: 1233001886}
   m_Layer: 0
-  m_Name: Sega Genesis - Teenage Mutant Ninja Turtles_ The Hyperstone Heist - Playable
-    Characters - Leonardo_0
+  m_Name: Leonardo Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2316,8 +2314,7 @@ GameObject:
   - component: {fileID: 1609580069}
   - component: {fileID: 1609580068}
   m_Layer: 0
-  m_Name: Sega Genesis - Teenage Mutant Ninja Turtles_ The Hyperstone Heist - Playable
-    Characters - Donatello_0
+  m_Name: Donatello Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
